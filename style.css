@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+#s1 {
+    background: linear-gradient(white 0%, grey 50%, black 100%);
+    height: 500px;
+}
+
+h1 {
+    font-variant: small-caps;
+}
+
+#title {
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.sn {
+    background: black;
+}
+
+#sdes {
+    height: 500px;
+}
+
+.ct {
+    font-size: 30px;
+    color: white;
+}
+
+p {
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 100px;
+}
+
+.lst {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    font-size: 30px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    color: white;
+}
+
+.ulst {
+    position: fixed;
+}
+
+button {
+    font-size: 15px;
+    font-variant: small-caps;
+}
+
+#spha {
+    height: auto;
+}
+
+h2 {
+    font-size: 20px;
+    font-variant: small-caps;
+    color: white;
+}
+
+.phacls {
+    width: 80%;
+}
+
+a {
+    color: grey;
+}
